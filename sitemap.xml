@@ -1,19 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://weldaprons.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://weldaprons.com/best-best-welding-aprons-2026.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldaprons.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldaprons.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldaprons.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://weldaprons.com/weldaprons-buying-guide-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://weldaprons.com/smart-weldaprons-shopping-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://weldaprons.com/how-to-pick-weldaprons-2026.html</loc><lastmod>2026-05-19</lastmod></url>
-  <url><loc>https://weldaprons.com/weldaprons-market-2026.html</loc><lastmod>2026-05-20</lastmod></url>
-  <url><loc>https://weldaprons.com/weldaprons-guide-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://weldaprons.com/best-weldaprons-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://weldaprons.com/weldaprons-explained-2026.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://weldaprons.com/truth-about-weldaprons-2026.html</loc><lastmod>2026-05-29</lastmod></url>
-  <url><loc>https://weldaprons.com/weldaprons-compared-2026.html</loc><lastmod>2026-06-01</lastmod></url>
-  <url><loc>https://weldaprons.com/best-weldaprons-without-overpaying.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://weldaprons.com/weldaprons-what-buyers-need-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://weldaprons.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
